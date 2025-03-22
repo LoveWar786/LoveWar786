@@ -2,10 +2,7 @@
 
 Prithvi, C++ & Java developer.\
 Starting DSA this year (wish me luck).\
-Love precision and incorporating Clean UI in all of my websites.\
-Love hanging out with my friends.\
-Reach me at **rprithvi388@gmail.com**.
-
+Love PRECISION and CLEANLINESS in code.
 
 ## 🌐 SOCIALS:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/928695371956383824) 
@@ -18,10 +15,7 @@ Reach me at **rprithvi388@gmail.com**.
 ## 💻 TECH STACK:
 C, C++, Java <!--JavaScript HTML5 Python CSS3 Firebase GithubPages Vercel MySQL Bootstrap Context-API Chart.js JavaFX Next JS React React Router Firebase Adobe Illustrator Canva Git GitHub Qt-->
 
-
 <!--## GitHub Stats
-
-# :bar_chart: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LoveWar786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LoveWar786&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveWar786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
