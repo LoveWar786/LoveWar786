@@ -1,5 +1,5 @@
 ## 💫 ABOUT ME
-Prithvi (/ LoveWar786), 19.\
+Prithvi / LoveWar786, 19.\
 Starting DSA this year (wish me luck).\
 Love PRECISION and CLEANLINESS in code.
 
