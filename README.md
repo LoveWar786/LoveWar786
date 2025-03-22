@@ -1,8 +1,7 @@
 ## 💫 ABOUT ME
-\
-                Prithvi, C++ & Java developer.\
-                Starting DSA this year (wish me luck).\
-                Love PRECISION and CLEANLINESS in code.
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Prithvi, C++ & Java developer.\
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Starting DSA this year (wish me luck).\
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Love PRECISION and CLEANLINESS in code.
 
 ## 🌐 SOCIALS:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/928695371956383824) 
