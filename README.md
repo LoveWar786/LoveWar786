@@ -1,7 +1,7 @@
 ## 💫 ABOUT ME
 Prithvi / LoveWar786, 19.\
 Starting DSA this year (wish me luck).\
-Love PRECISION, CLEANLINESS & ADDING COMMENTS in code.
+Love **PRECISION**, **CLEANLINESS** & **ADDING COMMENTS** in code.
 
 ## 💻 TECH STACK:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
