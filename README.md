@@ -1,6 +1,6 @@
 ## 💫 ABOUT ME
-
-Prithvi, C++ & Java developer.\
+\
+                Prithvi, C++ & Java developer.\
                 Starting DSA this year (wish me luck).\
                 Love PRECISION and CLEANLINESS in code.
 
