@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 ABOUT ME
 
-<!--
-**LoveWar786/LoveWar786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤗 Prithvi, C++ & Java developer.
+🎴 Starting DSA this year (wish me luck)
+🎀 Love precision and incorporating Clean UI in all of my websites.
+🎲 Love hanging out with my friends
+🎈 Reach me at **rprithvi388@gmail.com**.
 
-Here are some ideas to get you started:
+# 🌐 Socials:
+Discord LinkedIn Reddit Stack Overflow Codepen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+C++ C JavaScript HTML5 Python CSS3 Firebase GithubPages Vercel MySQL Bootstrap Context-API Chart.js JavaFX Next JS React React Router Firebase Adobe Illustrator Canva Git GitHub Qt
+
+📊 GitHub Stats:
