@@ -1,9 +1,9 @@
 ## 💫 ABOUT ME
 
-🤗 Prithvi, C++ & Java developer.
-🎴 Starting DSA this year (wish me luck)
-🎀 Love precision and incorporating Clean UI in all of my websites.
-🎲 Love hanging out with my friends
+🤗 Prithvi, C++ & Java developer.\n\
+🎴 Starting DSA this year (wish me luck).\n\
+🎀 Love precision and incorporating Clean UI in all of my websites.\n\
+🎲 Love hanging out with my friends.\n\
 🎈 Reach me at **rprithvi388@gmail.com**.
 
 
